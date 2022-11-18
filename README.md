@@ -1,16 +1,19 @@
-# photo_editor_app
+# Photo Editor App
+A simple Flutter project for editing photo
 
-A new Flutter project.
+### Features
+- Get image from gallery or using the camera
+- Cropping, image rotatione
+- Contrast, exposure, saturation
+- Adding text to the image, changing the text size, text color, etc.
+- Saving an image to the gallery
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Dependencies
+- path_provider: ^2.0.11
+- image_picker: ^0.8.6
+- image_cropper: ^3.0.1
+- on_image_matrix: ^1.0.0+1
+- screenshot: ^1.2.3
+- permission_handler: ^10.2.0
+- image_gallery_saver: ^1.7.1
+- google_fonts: ^3.0.1
