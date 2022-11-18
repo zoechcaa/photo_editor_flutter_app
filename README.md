@@ -3,7 +3,7 @@ A simple Flutter project for editing photo
 
 ### Features
 - Get image from gallery or using the camera
-- Cropping, image rotatione
+- Cropping, image rotation
 - Contrast, exposure, saturation
 - Adding text to the image, changing the text size, text color, etc.
 - Saving an image to the gallery
